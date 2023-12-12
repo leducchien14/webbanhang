@@ -450,10 +450,10 @@
                                 </div>
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/dr/dr1.jpg" alt="">
+                                        <img src="../image/b5.img" alt="">
                                     </div>
                                     <div class="product-title">
-                                        <h3>Dior made in France</h3>
+                                        <h3>Polo made in France</h3>
                                         <p>Auth</p>
                                         <del>1,000,000<u>đ</u></del>
                                         <span>700,000 <u>đ</u></span>
@@ -461,10 +461,10 @@
                                 </div>
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/dr/dr2.jpg" alt="">
+                                        <img src="../image/b7.jpg" alt="">
                                     </div>
                                     <div class="product-title">
-                                        <h3>Dior made in France</h3>
+                                        <h3>Polo made in France</h3>
                                         <p>Auth</p>
                                         <del>1,000,000<u>đ</u></del>
                                         <span>800,000 <u>đ</u></span>
@@ -474,10 +474,10 @@
                             <div class="product-item1 product-xe">
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/dr/dr3.jpg" alt="">
+                                        <img src="../image/b8.img" alt="">
                                     </div>
                                     <div class="product-title">
-                                        <h3>Dior made in France</h3>
+                                        <h3>Polo made in France</h3>
                                         <p>Auth</p>
                                         <del>1,000,000<u>đ</u></del>
                                         <span>500,000 <u>đ</u></span>
@@ -485,10 +485,10 @@
                                 </div>
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/dr/dr4.jpg" alt="">
+                                        <img src="../image/b3.jpg" alt="">
                                     </div>
                                     <div class="product-title">
-                                        <h3>Dior made in France</h3>
+                                        <h3>Polo made in France</h3>
                                         <p>Auth</p>
                                         <del>1,000,000<u>đ</u></del>
                                         <span>600,000 <u>đ</u></span>
@@ -496,10 +496,10 @@
                                 </div>
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/dr/dr5.jpg" alt="">
+                                        <img src="../image/b2" alt="">
                                     </div>
                                     <div class="product-title">
-                                        <h3>Dior made in France</h3>
+                                        <h3>Polo made in France</h3>
                                         <p>Auth</p>
                                         <del>1,000,000<u>đ</u></del>
                                         <span>900,000 <u>đ</u></span>
