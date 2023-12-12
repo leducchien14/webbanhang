@@ -439,10 +439,10 @@
                             <div class="product-item1 product-xe">
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/dr/dr.jpg" alt="">
+                                        <img src="../image/b9.jpg" alt="">
                                     </div>
                                     <div class="product-title">
-                                        <h3>Dior made in France</h3>
+                                        <h3>Polo made in France</h3>
                                         <p>Auth</p>
                                         <del>1,000,000<u>đ</u></del>
                                         <span>750,000 <u>đ</u></span>
@@ -450,7 +450,7 @@
                                 </div>
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/b5.img" alt="">
+                                        <img src="../image/b5.jpg" alt="">
                                     </div>
                                     <div class="product-title">
                                         <h3>Polo made in France</h3>
@@ -474,7 +474,7 @@
                             <div class="product-item1 product-xe">
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/b8.img" alt="">
+                                        <img src="../image/b8.jpg" alt="">
                                     </div>
                                     <div class="product-title">
                                         <h3>Polo made in France</h3>
@@ -496,7 +496,7 @@
                                 </div>
                                 <div class="productvios">
                                     <div class="image-product">
-                                        <img src="../image/b2" alt="">
+                                        <img src="../image/b2.jpg" alt="">
                                     </div>
                                     <div class="product-title">
                                         <h3>Polo made in France</h3>
@@ -540,7 +540,7 @@
                         </div>
                         <div class="posts-content">
                             <div class="image-content">
-                                <img src="../image/nhanhieu.jpg" alt="">
+                                <img src="../image/nhanhieu1.png" alt="">
                             </div>
                             <div class="content">
                                 <h3>CHỌN MÀU CÁC NHÃN HIỆU</h3>
@@ -549,7 +549,7 @@
                         </div>
                         <div class="posts-content">
                             <div class="image-content">
-                                <img src="../image/tien.jpg" alt="">
+                                <img src="../image/tiendo.jpg" alt="">
                             </div>
                             <div class="content">
                                 <h3>CHỌN MUA ĐẮT HAY RẺ</h3>
